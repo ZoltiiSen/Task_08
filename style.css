@@ -1,0 +1,9 @@
+html, body, .eig {
+  height: 100%;
+}
+.eig {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 220px;
+}
